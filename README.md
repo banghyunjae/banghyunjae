@@ -1,4 +1,4 @@
-# 안녕하세요. 방현재입니다.!
+# Hi there ~!
 
 ## Skills 🛠️
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

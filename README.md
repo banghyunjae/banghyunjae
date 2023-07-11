@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @banghyunjae
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 안녕하세요. 방현재입니다.!
 
-<!---
-banghyunjae/banghyunjae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills 🛠️
+* Python 🐍
+* Django 🌐
+* Frontend (HTML, CSS, JavaScript) 🌟
+* AWS 배포 🚀
+
+## 프로젝트 📂
+
+1. [b4_exhibitions_backend], frontend
+2. [b5_ah_molrang], frontend
+3. [algorithm_fc], frontend
